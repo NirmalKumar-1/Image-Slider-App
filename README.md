@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/11f66cf3-bc9a-4292-8156-70a58d4bae06
 🌟 Image Slider App
 
 A simple and responsive Image Slider built using HTML, CSS, and JavaScript.
